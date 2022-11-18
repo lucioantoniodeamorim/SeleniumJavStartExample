@@ -6,5 +6,6 @@ Baixar o chromedriver para sua versão do Chrome<br />
 Instalar IDE (Eclipse)<br />
 Criar um projeto Maven<br />
 Colocar o Selenium como dependência no pom.xml<br />
-Colar o código<br />
+Criar uma nova classe java
+Colar o código<br /><br />
 Executar<br />
