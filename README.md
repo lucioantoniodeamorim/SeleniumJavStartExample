@@ -7,5 +7,5 @@ Instalar IDE (Eclipse)<br />
 Criar um projeto Maven<br />
 Colocar o Selenium como dependência no pom.xml<br />
 Criar uma nova classe java<br />
-Colar o código<br /><br />
+Colar o código<br />
 Executar<br />
